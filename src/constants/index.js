@@ -224,21 +224,24 @@ const socialImgs = [
   {
     name: "insta",
     imgPath: "/images/insta.png",
+    link: "YOUR_INSTAGRAM_LINK_HERE",
   },
   {
     name: "fb",
     imgPath: "/images/fb.png",
+    link: "YOUR_FACEBOOK_LINK_HERE",
   },
   {
     name: "x",
     imgPath: "/images/x.png",
+    link: "YOUR_X_LINK_HERE",
   },
   {
     name: "linkedin",
     imgPath: "/images/linkedin.png",
+    link: "https://www.linkedin.com/in/waleedarifsidiqui/",
   },
 ];
-
 export {
   words,
   abilities,
